@@ -289,7 +289,7 @@ The API provides comprehensive error handling:
 
 ## License
 
-This project is created for educational purposes as part of the ALU Higher Level Programming curriculum.
+This project is created for educational purposes.
 
 ## Contact
 
