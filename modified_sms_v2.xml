@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sms_records>
+    <transaction id="1">
+        <type>deposit</type>
+        <amount>50000</amount>
+        <sender>+250788123456</sender>
+        <receiver>+250788654321</receiver>
+        <timestamp>2024-01-15T10:30:00Z</timestamp>
+        <status>completed</status>
+        <description>Mobile money deposit</description>
+    </transaction>
+    <transaction id="2">
+        <type>withdrawal</type>
+        <amount>25000</amount>
+        <sender>+250788654321</sender>
+        <receiver>+250788123456</receiver>
+        <timestamp>2024-01-15T11:15:00Z</timestamp>
+        <status>completed</status>
+        <description>ATM withdrawal</description>
+    </transaction>
+    <transaction id="3">
+        <type>transfer</type>
+        <amount>100000</amount>
+        <sender>+250788111111</sender>
+        <receiver>+250788222222</receiver>
+        <timestamp>2024-01-15T12:00:00Z</timestamp>
+        <status>completed</status>
+        <description>Peer to peer transfer</description>
+    </transaction>
+    <transaction id="4">
+        <type>deposit</type>
+        <amount>75000</amount>
+        <sender>+250788333333</sender>
+        <receiver>+250788444444</receiver>
+        <timestamp>2024-01-15T13:45:00Z</timestamp>
+        <status>pending</status>
+        <description>Bank deposit</description>
+    </transaction>
+    <transaction id="5">
+        <type>payment</type>
+        <amount>15000</amount>
+        <sender>+250788555555</sender>
+        <receiver>+250788666666</receiver>
+        <timestamp>2024-01-15T14:20:00Z</timestamp>
+        <status>completed</status>
+        <description>Merchant payment</description>
+    </transaction>
+    <transaction id="6">
+        <type>withdrawal</type>
+        <amount>30000</amount>
+        <sender>+250788777777</sender>
+        <receiver>+250788888888</receiver>
+        <timestamp>2024-01-15T15:10:00Z</timestamp>
+        <status>failed</status>
+        <description>ATM withdrawal failed</description>
+    </transaction>
+    <transaction id="7">
+        <type>transfer</type>
+        <amount>200000</amount>
+        <sender>+250788999999</sender>
+        <receiver>+250789000000</receiver>
+        <timestamp>2024-01-15T16:30:00Z</timestamp>
+        <status>completed</status>
+        <description>Business transfer</description>
+    </transaction>
+    <transaction id="8">
+        <type>deposit</type>
+        <amount>5000</amount>
+        <sender>+250789111111</sender>
+        <receiver>+250789222222</receiver>
+        <timestamp>2024-01-15T17:00:00Z</timestamp>
+        <status>completed</status>
+        <description>Cash deposit</description>
+    </transaction>
+    <transaction id="9">
+        <type>payment</type>
+        <amount>8000</amount>
+        <sender>+250789333333</sender>
+        <receiver>+250789444444</receiver>
+        <timestamp>2024-01-15T18:15:00Z</timestamp>
+        <status>completed</status>
+        <description>Utility bill payment</description>
+    </transaction>
+    <transaction id="10">
+        <type>withdrawal</type>
+        <amount>120000</amount>
+        <sender>+250789555555</sender>
+        <receiver>+250789666666</receiver>
+        <timestamp>2024-01-15T19:00:00Z</timestamp>
+        <status>completed</status>
+        <description>Branch withdrawal</description>
+    </transaction>
+    <transaction id="11">
+        <type>transfer</type>
+        <amount>45000</amount>
+        <sender>+250789777777</sender>
+        <receiver>+250789888888</receiver>
+        <timestamp>2024-01-15T20:30:00Z</timestamp>
+        <status>completed</status>
+        <description>Family transfer</description>
+    </transaction>
+    <transaction id="12">
+        <type>deposit</type>
+        <amount>90000</amount>
+        <sender>+250789999999</sender>
+        <receiver>+250790000000</receiver>
+        <timestamp>2024-01-15T21:45:00Z</timestamp>
+        <status>pending</status>
+        <description>Mobile deposit</description>
+    </transaction>
+    <transaction id="13">
+        <type>payment</type>
+        <amount>25000</amount>
+        <sender>+250790111111</sender>
+        <receiver>+250790222222</receiver>
+        <timestamp>2024-01-15T22:00:00Z</timestamp>
+        <status>completed</status>
+        <description>Online purchase</description>
+    </transaction>
+    <transaction id="14">
+        <type>withdrawal</type>
+        <amount>60000</amount>
+        <sender>+250790333333</sender>
+        <receiver>+250790444444</receiver>
+        <timestamp>2024-01-15T23:15:00Z</timestamp>
+        <status>completed</status>
+        <description>ATM withdrawal</description>
+    </transaction>
+    <transaction id="15">
+        <type>transfer</type>
+        <amount>180000</amount>
+        <sender>+250790555555</sender>
+        <receiver>+250790666666</receiver>
+        <timestamp>2024-01-16T08:00:00Z</timestamp>
+        <status>completed</status>
+        <description>Salary transfer</description>
+    </transaction>
+    <transaction id="16">
+        <type>deposit</type>
+        <amount>35000</amount>
+        <sender>+250790777777</sender>
+        <receiver>+250790888888</receiver>
+        <timestamp>2024-01-16T09:30:00Z</timestamp>
+        <status>completed</status>
+        <description>Cash deposit</description>
+    </transaction>
+    <transaction id="17">
+        <type>payment</type>
+        <amount>12000</amount>
+        <sender>+250790999999</sender>
+        <receiver>+250791000000</receiver>
+        <timestamp>2024-01-16T10:45:00Z</timestamp>
+        <status>completed</status>
+        <description>Transport payment</description>
+    </transaction>
+    <transaction id="18">
+        <type>withdrawal</type>
+        <amount>85000</amount>
+        <sender>+250791111111</sender>
+        <receiver>+250791222222</receiver>
+        <timestamp>2024-01-16T11:20:00Z</timestamp>
+        <status>failed</status>
+        <description>ATM withdrawal failed</description>
+    </transaction>
+    <transaction id="19">
+        <type>transfer</type>
+        <amount>95000</amount>
+        <sender>+250791333333</sender>
+        <receiver>+250791444444</receiver>
+        <timestamp>2024-01-16T12:00:00Z</timestamp>
+        <status>completed</status>
+        <description>Emergency transfer</description>
+    </transaction>
+    <transaction id="20">
+        <type>deposit</type>
+        <amount>150000</amount>
+        <sender>+250791555555</sender>
+        <receiver>+250791666666</receiver>
+        <timestamp>2024-01-16T13:30:00Z</timestamp>
+        <status>completed</status>
+        <description>Investment deposit</description>
+    </transaction>
+    <transaction id="21">
+        <type>payment</type>
+        <amount>30000</amount>
+        <sender>+250791777777</sender>
+        <receiver>+250791888888</receiver>
+        <timestamp>2024-01-16T14:15:00Z</timestamp>
+        <status>completed</status>
+        <description>Insurance payment</description>
+    </transaction>
+    <transaction id="22">
+        <type>withdrawal</type>
+        <amount>40000</amount>
+        <sender>+250791999999</sender>
+        <receiver>+250792000000</receiver>
+        <timestamp>2024-01-16T15:00:00Z</timestamp>
+        <status>completed</status>
+        <description>Branch withdrawal</description>
+    </transaction>
+    <transaction id="23">
+        <type>transfer</type>
+        <amount>75000</amount>
+        <sender>+250792111111</sender>
+        <receiver>+250792222222</receiver>
+        <timestamp>2024-01-16T16:30:00Z</timestamp>
+        <status>completed</status>
+        <description>Loan repayment</description>
+    </transaction>
+    <transaction id="24">
+        <type>deposit</type>
+        <amount>200000</amount>
+        <sender>+250792333333</sender>
+        <receiver>+250792444444</receiver>
+        <timestamp>2024-01-16T17:45:00Z</timestamp>
+        <status>pending</status>
+        <description>Business deposit</description>
+    </transaction>
+    <transaction id="25">
+        <type>payment</type>
+        <amount>5000</amount>
+        <sender>+250792555555</sender>
+        <receiver>+250792666666</receiver>
+        <timestamp>2024-01-16T18:00:00Z</timestamp>
+        <status>completed</status>
+        <description>Service fee</description>
+    </transaction>
+</sms_records>

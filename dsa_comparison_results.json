@@ -1,0 +1,70 @@
+{
+  "timestamp": "2025-10-01 23:17:13",
+  "results": {
+    "linear_search_times": [
+      3.1677517108619213e-07,
+      7.565836422145367e-07,
+      1.230203197337687e-06,
+      6.977976299822331e-07,
+      5.932485219091177e-07,
+      1.1697615263983606e-06,
+      6.562407361343503e-07,
+      2.0265881903469563e-07,
+      2.686595544219017e-07,
+      1.3938529882580042e-06
+    ],
+    "dictionary_lookup_times": [
+      1.5639793127775193e-07,
+      1.5683646779507398e-07,
+      1.5625369269400836e-07,
+      1.5603739302605392e-07,
+      1.5519885346293448e-07,
+      1.5645951498299838e-07,
+      1.5528255607932806e-07,
+      1.5608395915478468e-07,
+      1.5568116214126348e-07,
+      1.3823877088725567e-07
+    ],
+    "test_ids": [
+      3,
+      11,
+      20,
+      10,
+      8,
+      19,
+      9,
+      1,
+      2,
+      24
+    ],
+    "iterations": 1000,
+    "average_linear_time": 7.285781786777078e-07,
+    "average_dict_time": 1.542470301501453e-07,
+    "overall_speedup": 4.723450286002291
+  },
+  "complexity_analysis": {
+    "linear_search": {
+      "time_complexity": "O(n)",
+      "space_complexity": "O(1)",
+      "description": "Must check each element in the list until found"
+    },
+    "dictionary_lookup": {
+      "time_complexity": "O(1) average case",
+      "space_complexity": "O(n)",
+      "description": "Direct key access using hash table"
+    },
+    "explanation": {
+      "why_dict_faster": "Dictionary uses hash table for O(1) average lookup time",
+      "trade_off": "Dictionary requires O(n) extra space to store the mapping",
+      "when_to_use_linear": "When memory is limited and searches are infrequent",
+      "when_to_use_dict": "When frequent lookups are needed and memory is available"
+    }
+  },
+  "summary": {
+    "total_transactions": 10,
+    "iterations_per_test": 1000,
+    "average_linear_time": 7.285781786777078e-07,
+    "average_dict_time": 1.542470301501453e-07,
+    "overall_speedup": 4.723450286002291
+  }
+}
